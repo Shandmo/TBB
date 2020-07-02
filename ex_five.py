@@ -8,3 +8,5 @@ multiplication = (int(num_one) * int(num_two))
 division = (int(num_one) / int(num_two))
 print(f"{num_one} + {num_two} = {addition}\n{num_one} - {num_two} = {subtraction}\n \
 {num_one} * {num_two} = {multiplication}\n {num_one} \ {num_two} = {division}")
+print(f"{num_one} + {num_two} = {addition}\n{num_one} - {num_two} = {subtraction}\n \
+{num_one} * {num_two} = {multiplication}\n {num_one} \ {num_two} = {division}")
